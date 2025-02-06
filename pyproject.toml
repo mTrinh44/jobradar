@@ -1,0 +1,5 @@
+[project]
+name = "jobradar"
+version = "0.1.0"
+description = "Watches company job boards, scores openings against your resume, and emails you when something worth applying to shows up."
+requires-python = ">=3.10"
